@@ -2,8 +2,6 @@
 
 Este é um aplicativo para iOS desenvolvido em **Swift** utilizando **ViewCode**, que permite calcular o IMC (Índice de Massa Corporal) com base na altura e peso fornecidos pelo usuário.
 
----
-
 ## ⚙️ Funcionalidades
 
 - Ajuste de **altura** e **peso** usando sliders interativos.
@@ -12,16 +10,12 @@ Este é um aplicativo para iOS desenvolvido em **Swift** utilizando **ViewCode**
 - Alteração de cor da interface conforme a categoria do IMC.
 - Botão "Recalcular" para ajustar os valores e refazer o cálculo.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Swift** (Swift 5+)
 - **UIKit** (ViewCode)
 - **Auto Layout** programaticamente
 - **MVC (Model-View-Controller)**
-
----
 
 ## 🚀 Como Executar o Projeto
 
